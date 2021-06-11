@@ -13,10 +13,10 @@ My name is Lihao Wang (王历昊). I am a master student in the department of co
 
 Research Interests
 ======
-Mobile Computing
-UAV Networks
-Wireless Sensor Networks
-Machine Learning
+- Mobile Computing
+- UAV Networks
+- Wireless Sensor Networks
+- Machine Learning
 
 Contact
 ====
