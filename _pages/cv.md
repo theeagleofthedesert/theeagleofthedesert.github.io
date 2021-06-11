@@ -37,7 +37,7 @@ Work experience
 
 Publications
 ======
-To be continue
+TBD
   
 <!-- Talks
 ======
