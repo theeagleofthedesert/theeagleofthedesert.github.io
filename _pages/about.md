@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 Biography
 ====
 My name is Lihao Wang (王历昊). I am a master student in the department of computer science, Nanjing Univerisity. I am supervised by Associate Professor Haipeng Dai.
