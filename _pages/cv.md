@@ -35,9 +35,9 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
-TBD
+TBD -->
   
 <!-- Talks
 ======
