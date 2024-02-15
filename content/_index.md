@@ -82,7 +82,7 @@ sections:
           location: Shanghai
           date_start: '2023-02-08'
           date_end: '2023-08-31'
-          description: Work on wireless signal dataset simulation and multimodality fusion. Mentored by [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)
+          description: Work on wireless signal dataset simulation and multimodality fusion, mentored by [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/).
     design:
       columns: '2'
   # - block: accomplishments
