@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status: looking for a Ph.D. position
-  icon: 👀
+icon: 👀
 
 # Is this the primary user of the site?
 superuser: true
