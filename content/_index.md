@@ -78,7 +78,7 @@ sections:
         - title: Research Intern
           company: Microsoft Research Asia
           company_url: 'https://www.msra.cn/'
-          # company_logo: microsoft
+          company_logo: microsoft
           location: Shanghai
           date_start: '2023-02-08'
           date_end: '2023-08-31'
