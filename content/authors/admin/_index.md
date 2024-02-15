@@ -40,7 +40,7 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: MS in Computer Science
-      institution: Massachusetts Institute of Technology
+      institution: Nanjing University
       year: 2021-now
     - course: BSc in Computer Science
       institution: Jilin University
