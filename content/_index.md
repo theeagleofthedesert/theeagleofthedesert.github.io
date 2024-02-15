@@ -201,6 +201,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: pubs
     content:
       title: Recent Publications
       text: |-
