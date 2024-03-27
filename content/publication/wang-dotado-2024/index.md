@@ -1,7 +1,7 @@
 ---
 title: Joint Deployment of Truck-drone Systems for Camera-based Object Monitoring
 authors:
-- **Lihao Wang**
+- **Lihao** **Wang**
 - Weijun Wang
 - Haipeng Dai
 - Yuben Qu
