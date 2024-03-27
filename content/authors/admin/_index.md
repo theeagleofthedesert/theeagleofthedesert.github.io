@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Lihao Wang is currently a master student at Department of Computer Science and Technology in Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021. His research interests include mobile computing, Internet of things, and human-computer interaction.
+Lihao Wang is currently a master student at Department of Computer Science and Technology in Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021.
 {style="text-align: justify;"}
