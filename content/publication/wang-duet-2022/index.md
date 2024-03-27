@@ -1,7 +1,7 @@
 ---
 title: 'DUET: Joint Deployment of Trucks and Drones for Object Monitoring'
 authors:
-- **Lihao+Wang**
+- Lihao Wang
 - Weijun Wang
 - Haipeng Dai
 - Jiaqi Zheng
