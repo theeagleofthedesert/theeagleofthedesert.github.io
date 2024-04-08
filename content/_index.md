@@ -55,7 +55,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Feb 2023
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -82,7 +82,7 @@ sections:
           location: Shanghai
           date_start: '2023-02-08'
           date_end: '2023-08-31'
-          description: Work on wireless signal dataset simulation and multimodality fusion, mentored by [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/).
+          description: Wireless sensing dataset simulation, mentored by [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/).
     design:
       columns: '2'
   # - block: accomplishments
