@@ -124,5 +124,5 @@ highlight_name: true
 ---
 
 Lihao Wang is currently a PhD student at at Department of Computer Science in Johns Hopkins University, supervised by [Prof. Renjie Zhao](https://renjiezhao.github.io/).
-He received his M.S. in computer science from Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021. [Here](https://github.com/theeagleofthedesert/theeagleofthedesert.github.io/tree/main/static/uploads/my_cv_phd.pdf) is my resume.
+He received his M.S. in computer science from Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021. [Here]{{< ref "static/uploads/my_cv_phd.pdf" >}} is my resume.
 {style="text-align: justify;"}
