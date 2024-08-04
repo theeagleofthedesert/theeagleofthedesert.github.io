@@ -1,3 +1,6 @@
+---
+title: Hello! Nice to meet you!
+subtitle: I'm open to cooperation!
 
 # Summary for listings and search engines
 summary: Welcome to my website! 👋 Don't hesitate to reach out if interested in my research!
