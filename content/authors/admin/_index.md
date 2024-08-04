@@ -10,7 +10,7 @@ first_name: Lihao
 last_name: Wang
 
 # Status emoji
-status: looking for a Ph.D. position
+status: 1st year PhD student at Johns Hopkins University
 icon: 👀
 
 # Is this the primary user of the site?
@@ -21,8 +21,8 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University
-    url: https://www.nju.edu.cn/
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -39,9 +39,12 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
+    - course: PhD in Computer Science
+      institution: Johns Hopkins University
+      year: 2024-present
     - course: MS in Computer Science
       institution: Nanjing University
-      year: 2021-now
+      year: 2021-2024
     - course: BSc in Computer Science
       institution: Jilin University
       year: 2017-2021
@@ -120,5 +123,6 @@ social:
 highlight_name: true
 ---
 
-Lihao Wang is currently a master student at Department of Computer Science and Technology in Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021.
+Lihao Wang is currently a PhD student at at Department of Computer Science in Johns Hopkins University, supervised by [Prof. Renjie Zhao](https://renjiezhao.github.io/).
+He received his M.S. in computer science from Nanjing University, supervised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/) and [Prof. Wei Wang](https://cs.nju.edu.cn/ww/). He received his B.S. in computer science from Jilin University in 2021.
 {style="text-align: justify;"}
