@@ -1,5 +1,5 @@
 ---
-title: I received Distinguished Master Thesis Award (Top 5 out of 205)!
+title: I received Distinguished Master Thesis Award! <br>(Top 5 out of 205)
 subtitle: Department of Computer Science and Technology at Nanjing University
 
 ## Summary for listings and search engines
