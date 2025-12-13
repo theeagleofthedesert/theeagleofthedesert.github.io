@@ -9,10 +9,10 @@ summary: Our project focuses on enhancing robots with wireless signals to surpas
 projects: []
 
 ## Date published
-date: '2025-12-14T00:00:00Z'
+date: '2025-12-12T00:00:00Z'
 
 ## Date updated
-lastmod: '2024-12-14T00:00:00Z'
+lastmod: '2024-12-12T00:00:00Z'
 
 ## Is this an unpublished draft?
 draft: false
