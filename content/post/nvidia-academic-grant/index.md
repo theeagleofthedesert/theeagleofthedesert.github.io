@@ -3,7 +3,7 @@ title: Received NVIDIA Academic Grant!
 subtitle: NVIDIA has selected our project on robotics and edge AI for Academic Grant Program. 
 
 ## Summary for listings and search engines
-summary: <img src="/assets/media/icons/brands/Nvidia_logo.svg" alt="NVIDIA logo" style="height:48px; margin-bottom:1rem;" /> Our project focuses on enhancing robots with wireless signals to surpasses current visual perception. We will receive 4x RTX PRO 6000 Max-Q Workstation Edition GPU and 1x Jetson AGX Orin Dev Kit. Thank you, NVIDIA! 🥳
+summary: Our project focuses on enhancing robots with wireless signals to surpasses current visual perception. We will receive 4x RTX PRO 6000 Max-Q Workstation Edition GPU and 1x Jetson AGX Orin Dev Kit. Thank you, NVIDIA! 🥳
 
 ## Link this post with a project
 projects: []
@@ -21,4 +21,4 @@ authors:
   - admin
 ---
 
-
+![NVIDIA logo](/assets/media/icons/brands/Nvidia_logo.svg)
