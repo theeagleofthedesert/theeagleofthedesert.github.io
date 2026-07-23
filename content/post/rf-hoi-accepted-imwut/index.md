@@ -3,7 +3,13 @@ title: Our RF-HOI Paper Accepted by ACM IMWUT!
 subtitle: 'RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals'
 
 ## Summary for listings and search engines
-summary: <img src="/uploads/rf_hoi_teaser.png" alt="RF-HOI teaser" style="display:block; max-width:100%; margin:0 0 0.5rem 0;" /> Our paper "RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals" has been accepted by ACM IMWUT! RF-HOI is the first framework that recognizes human-object interactions using only RF signals, fusing mmWave radar and RFID, with a physics-based simulator that synthesizes multimodal RF training data at scale. Check out the <a href="https://theeagleofthedesert.github.io/RF-HOI/">project page</a>! 🎉
+summary: >-
+  <img src="/uploads/rf_hoi_teaser.png" alt="RF-HOI teaser" style="display:block; max-width:100%; margin:0 0 0.5rem 0;" />
+  Our paper "RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals" has been
+  accepted by ACM IMWUT! RF-HOI is the first framework that recognizes human-object interactions
+  using only RF signals, fusing mmWave radar and RFID, with a physics-based simulator that
+  synthesizes multimodal RF training data at scale. Check out the
+  <a href="https://theeagleofthedesert.github.io/RF-HOI/">project page</a>! 🎉
 
 ## Link this post with a project
 projects: []
