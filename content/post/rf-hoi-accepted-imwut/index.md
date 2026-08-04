@@ -32,6 +32,6 @@ Our paper **RF-HOI: Recognize Human-Object Interaction with Radio Frequency Sign
 RF-HOI is the first framework that recognizes Human-Object Interactions (HOI) using only radio frequency signals. It fuses mmWave radar and RFID for simultaneous action recognition and target object identification, and uses a physics-based simulator to synthesize multimodal RF data at scale — reaching 96.97% HOI accuracy and approaching vision-model performance while preserving privacy.
 
 - 🌐 [Project page](https://theeagleofthedesert.github.io/RF-HOI/)
-- 📄 [Paper PDF](https://theeagleofthedesert.github.io/RF-HOI/static/RF-HOI_paper.pdf)
+- 📄 [Paper (arXiv)](https://arxiv.org/abs/2608.00289)
 
 Many thanks to my collaborators at Johns Hopkins University! 🎉
